@@ -1,9 +1,9 @@
 # Yandex.Practicum_Projects
-Yandex.Practicum Projects for Data Analyst Course
+The projects were done during Yandex.Practicum Data Analyst Course
 
 | Номер       | Проект          | Описание  | Инструменты |
-| ----------- |:---------------:| ---------:|------------:|
-| col 3 is      | right-aligned | $1600 |                 |
-| col 2 is      | centered      |   $12 |                 |
-| zebra stripes | are neat      |    $1 |                 |
+| ----------- |:--------------------------:| ------------------------------------:|----------------------------:|
+|1      | right-aligned | $1600 |                 |
+|2      | centered      |   $12 |                 |
+| 3s | are neat      |    $1 |                 |
 
