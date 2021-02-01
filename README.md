@@ -1,6 +1,9 @@
 # Yandex.Practicum_Projects
 Yandex.Practicum Projects for Data Analyst Course
 
-|:Номер |:Проект   |:Описание |:Инструменты |
-|:1     |:22       |: ff      |:        dfgd|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
